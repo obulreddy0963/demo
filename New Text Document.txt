@@ -1,2 +1,9 @@
 hi guys
+<<<<<<< HEAD
 my name is obulreddy
+=======
+;hjipjpj
+>>>>>>> ce0558e (created some changes)
+
+
+HI gysfweof
